@@ -11,8 +11,8 @@
 
 - Installation
 - Tokenization
-	a) Sentences
-	b) Words
+    * Sentences
+    * Words
 - Part-of-speech-Tagging
 - Word Frequencies
 - Stop words
