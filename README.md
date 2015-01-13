@@ -1,6 +1,19 @@
 # nltk_package
 
-Ipython notebook presentation of the Natural Language Processing Tool (NLTK) Package 
+## iPython notebook presentation of the Natural Language Processing Toolkit (NLTK) 
 
-Requirements: Python 3.0 
+### Requirements
 
+* Python 3.0 
+* NLTK ??
+
+### Contents
+
+- Installation
+- Tokenization
+	a) Sentences
+	b) Words
+- Part-of-speech-Tagging
+- Word Frequencies
+- Stop words
+- Cooccurrences (and ngrams)
