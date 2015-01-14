@@ -1,0 +1,34 @@
+# Natural Language Toolkit for the Hummanities 
+
+The natural language toolkit (NLTK) package is a useful tool for the Digital Humannities. It contains many predesigned modules for natural language processing and text analysis.  e.g. Tokenizing text into sentences, Creating custom corpora, Part-of speach Tagging, Text classification etc. 
+
+
+## Installation 
+
+The installation guidelines are available at http://nltk.org/install.html 
+
+### Windows 
+
+    Install NLTK: http://pypi.python.org/pypi/nltk
+    Test installation: Start>Python34, then type import nltk
+
+
+### Linux/MAC 
+
+	- source bin/activate 
+
+	- pip install -U nltk 
+
+
+
+Type the 
+	
+	- ipython3 notebook 
+	- import nltk 
+
+After installing the NLTK Package it is useful to install the NLTK data, instruction at http://nltk.org/data.html. It contains useful corpora and pickled objects. 
+
+	- in a console or in the ipython3 notebook type
+	- nltk.download() 
+
+A new windows is showing up, which contains multiple corpora. 
