@@ -16,7 +16,7 @@
 - Part-of-speech tagging
 - Word frequencies
 - Stop words
-- Cooccurrences (and ngrams)
+- Cooccurrences/collocations
 
 ### Ressources
 
